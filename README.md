@@ -1,5 +1,5 @@
 # aws SAM app with Lambda
-In this project initialize and deploy a simple API using aws SAM. 
+In this project you can initialize and deploy a simple API using aws SAM. 
 
 ## Technologies Used
 * aws SAM
