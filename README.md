@@ -26,6 +26,8 @@ cd awsSAM-Lambda-app
 ```
 aws configure
 ```
+![image](https://user-images.githubusercontent.com/30685241/176317869-1c21f2a8-0b12-412e-85fc-ddffc15d462e.png)
+
 
 * Build and deploy the app
 ```
@@ -44,5 +46,7 @@ sam deploy --guided
 ```
 sam local start-api
 ```
+![image](https://user-images.githubusercontent.com/30685241/176317829-64738774-3873-4209-b1a7-b8615eebb17f.png)
+
 * Now test it - http://127.0.0.1:3000/helloWorld?personId=6
 ![image](https://user-images.githubusercontent.com/30685241/176317725-abf42802-30e9-4afc-a966-8341a2a234b9.png)
