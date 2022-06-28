@@ -1,1 +1,0 @@
-# awsSAM-Lambda-app
